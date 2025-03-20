@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\clevi\\source\\repos\\projeto Idosos\\projeto Idosos.csproj": {}
+    "C:\\Users\\clevi\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\projeto Idosos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\clevi\\source\\repos\\projeto Idosos\\projeto Idosos.csproj": {
+    "C:\\Users\\clevi\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\projeto Idosos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\clevi\\source\\repos\\projeto Idosos\\projeto Idosos.csproj",
+        "projectUniqueName": "C:\\Users\\clevi\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\projeto Idosos.csproj",
         "projectName": "projeto Idosos",
-        "projectPath": "C:\\Users\\clevi\\source\\repos\\projeto Idosos\\projeto Idosos.csproj",
+        "projectPath": "C:\\Users\\clevi\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\projeto Idosos.csproj",
         "packagesPath": "C:\\Users\\clevi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\clevi\\source\\repos\\projeto Idosos\\obj\\",
+        "outputPath": "C:\\Users\\clevi\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\clevi\\AppData\\Roaming\\NuGet\\NuGet.Config",
