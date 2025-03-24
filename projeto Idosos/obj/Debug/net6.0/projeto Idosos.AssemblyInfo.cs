@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projeto Idosos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9427aa35b8d343ecc72215640c417ffdf9fb122")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0ef128a32b9da1b00d8ba36394da8a7beb01c55")]
 [assembly: System.Reflection.AssemblyProductAttribute("projeto Idosos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projeto Idosos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
