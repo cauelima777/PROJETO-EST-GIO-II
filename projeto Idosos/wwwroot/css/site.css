@@ -616,7 +616,7 @@ progress {
 }
 
     .blockquote-footer::before {
-        content: "— ";
+        content: "ï¿½ï¿½";
     }
 
 .img-fluid {
@@ -3210,19 +3210,19 @@ textarea.form-control-lg {
 
 .btn-primary {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #ffc800;
-    --bs-btn-border-color: #ffc800;
+    --bs-btn-bg: #0fb3b2;
+    --bs-btn-border-color: #0fb3b2;
     --bs-btn-hover-color: #fff;
-    --bs-btn-hover-bg: #d9aa00;
-    --bs-btn-hover-border-color: #cca000;
+    --bs-btn-hover-bg: #088988;
+    --bs-btn-hover-border-color: #088988;
     --bs-btn-focus-shadow-rgb: 255, 208, 38;
     --bs-btn-active-color: #fff;
-    --bs-btn-active-bg: #cca000;
-    --bs-btn-active-border-color: #bf9600;
+    --bs-btn-active-bg: #088988;
+    --bs-btn-active-border-color: #088988;
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     --bs-btn-disabled-color: #fff;
-    --bs-btn-disabled-bg: #ffc800;
-    --bs-btn-disabled-border-color: #ffc800;
+    --bs-btn-disabled-bg: #088988;
+    --bs-btn-disabled-border-color: #088988;
 }
 
 .btn-secondary {
@@ -12461,7 +12461,7 @@ p {
 #mainNav {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #212529;
+    background-color: #0fb3b2;
 }
 
     #mainNav .navbar-toggler {
@@ -12492,7 +12492,7 @@ p {
     }
 
         #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-            color: #ffc800;
+            color: #000000;
         }
 
 @media (min-width: 992px) {
@@ -12517,7 +12517,7 @@ p {
         #mainNav.navbar-shrink {
             padding-top: 1rem;
             padding-bottom: 1rem;
-            background-color: #212529;
+            background-color: #0fb3b2;
         }
 
             #mainNav.navbar-shrink .navbar-brand {
@@ -12543,7 +12543,8 @@ header.masthead {
     padding-bottom: 6rem;
     text-align: center;
     color: #fff;
-    background-image: url("../assets/img/header-bg.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), /* opacidade da img */
+    url("../assets/img/idosos-header.png");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -12587,92 +12588,92 @@ header.masthead {
         }
 }
 
-#portfolio .portfolio-item {
+#servicos .servicos-item {
     max-width: 26rem;
     margin-left: auto;
     margin-right: auto;
 }
 
-    #portfolio .portfolio-item .portfolio-link {
+    #servicos .servicos-item .servicos-link {
         position: relative;
         display: block;
         margin: 0 auto;
     }
 
-        #portfolio .portfolio-item .portfolio-link .portfolio-hover {
+        #servicos .servicos-item .servicos-link .servicos-hover {
             display: flex;
             position: absolute;
             width: 100%;
             height: 100%;
-            background: rgba(255, 200, 0, 0.9);
+            background: rgb(15 179 178 / 90%);
             align-items: center;
             justify-content: center;
             opacity: 0;
             transition: opacity ease-in-out 0.25s;
         }
 
-            #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+            #servicos .servicos-item .servicos-link .servicos-hover .servicos-hover-content {
                 font-size: 1.25rem;
                 color: white;
             }
 
-        #portfolio .portfolio-item .portfolio-link:hover .portfolio-hover {
+        #servicos .servicos-item .servicos-link:hover .servicos-hover {
             opacity: 1;
         }
 
-    #portfolio .portfolio-item .portfolio-caption {
+    #servicos .servicos-item .servicos-caption {
         padding: 1.5rem;
         text-align: center;
         background-color: #fff;
     }
 
-        #portfolio .portfolio-item .portfolio-caption .portfolio-caption-heading {
+        #servicos .servicos-item .servicos-caption .servicos-caption-heading {
             font-size: 1.5rem;
             font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
             font-weight: 700;
             margin-bottom: 0;
         }
 
-        #portfolio .portfolio-item .portfolio-caption .portfolio-caption-subheading {
+        #servicos .servicos-item .servicos-caption .servicos-caption-subheading {
             font-style: italic;
             font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
         }
 
-.portfolio-modal .modal-dialog {
+.servicos-modal .modal-dialog {
     margin: 1rem;
     max-width: 100vw;
 }
 
-.portfolio-modal .modal-content {
+.servicos-modal .modal-content {
     padding-top: 6rem;
     padding-bottom: 6rem;
     text-align: center;
 }
 
-    .portfolio-modal .modal-content h2, .portfolio-modal .modal-content .h2 {
+    .servicos-modal .modal-content h2, .servicos-modal .modal-content .h2 {
         font-size: 3rem;
         line-height: 3rem;
     }
 
-    .portfolio-modal .modal-content p.item-intro {
+    .servicos-modal .modal-content p.item-intro {
         font-style: italic;
         margin-bottom: 2rem;
         font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     }
 
-    .portfolio-modal .modal-content p {
+    .servicos-modal .modal-content p {
         margin-bottom: 2rem;
     }
 
-    .portfolio-modal .modal-content ul.list-inline {
+    .servicos-modal .modal-content ul.list-inline {
         margin-bottom: 2rem;
     }
 
-    .portfolio-modal .modal-content img {
+    .servicos-modal .modal-content img {
         margin-bottom: 2rem;
     }
 
-.portfolio-modal .close-modal {
+.servicos-modal .close-modal {
     position: absolute;
     top: 1.5rem;
     right: 1.5rem;
@@ -12682,7 +12683,7 @@ header.masthead {
     background-color: transparent;
 }
 
-    .portfolio-modal .close-modal:hover {
+    .servicos-modal .close-modal:hover {
         opacity: 0.3;
     }
 
