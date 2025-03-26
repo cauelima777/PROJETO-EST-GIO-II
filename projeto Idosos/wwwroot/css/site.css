@@ -12906,9 +12906,11 @@ header.masthead {
     height: 2.75rem;
 }
 
+
+
 section#contact {
-    background-color: #212529;
-    background-image: url("../assets/img/map-image.png");
+    background-color: #0cb4b4;
+    background-image: url("assets/favicon.ico");
     background-repeat: no-repeat;
     background-position: center;
 }
