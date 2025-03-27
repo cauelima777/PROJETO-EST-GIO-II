@@ -12461,7 +12461,7 @@ p {
 #mainNav {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #0fb3b2;
+    background-color: #2F4F4F;
 }
 
     #mainNav .navbar-toggler {
@@ -12517,7 +12517,7 @@ p {
         #mainNav.navbar-shrink {
             padding-top: 1rem;
             padding-bottom: 1rem;
-            background-color: #0fb3b2;
+            background-color: #2F4F4F;
         }
 
             #mainNav.navbar-shrink .navbar-brand {
@@ -12909,7 +12909,7 @@ header.masthead {
 
 
 section#contact {
-    background-color: #0cb4b4;
+    background-color: #2F4F4F;
     background-image: url("assets/favicon.ico");
     background-repeat: no-repeat;
     background-position: center;
