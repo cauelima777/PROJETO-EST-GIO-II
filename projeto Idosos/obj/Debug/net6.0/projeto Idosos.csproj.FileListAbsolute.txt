@@ -90,3 +90,34 @@ C:\Users\gabri\OneDrive\Documentos\GitHub\PROJETO-EST-GIO-II\PROJETO-EST-GIO-II\
 C:\Users\gabri\OneDrive\Documentos\GitHub\PROJETO-EST-GIO-II\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto Idosos.pdb
 C:\Users\gabri\OneDrive\Documentos\GitHub\PROJETO-EST-GIO-II\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto Idosos.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Documentos\GitHub\PROJETO-EST-GIO-II\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\ref\projeto Idosos.dll
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\bin\Debug\net6.0\appsettings.json
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\bin\Debug\net6.0\projeto Idosos.staticwebassets.runtime.json
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\bin\Debug\net6.0\projeto Idosos.exe
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\bin\Debug\net6.0\projeto Idosos.deps.json
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\bin\Debug\net6.0\projeto Idosos.runtimeconfig.json
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\bin\Debug\net6.0\projeto Idosos.dll
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\bin\Debug\net6.0\projeto Idosos.pdb
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto Idosos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto Idosos.AssemblyInfoInputs.cache
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto Idosos.AssemblyInfo.cs
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto Idosos.csproj.CoreCompileInputs.cache
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto Idosos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto Idosos.RazorAssemblyInfo.cache
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto Idosos.RazorAssemblyInfo.cs
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto Idosos.sourcelink.json
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\staticwebassets\msbuild.projeto Idosos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\staticwebassets\msbuild.build.projeto Idosos.props
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.projeto Idosos.props
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.projeto Idosos.props
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\scopedcss\bundle\projeto Idosos.styles.css
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\scopedcss\projectbundle\projeto Idosos.bundle.scp.css
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto Idosos.dll
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\refint\projeto Idosos.dll
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto Idosos.pdb
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto Idosos.genruntimeconfig.cache
+C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\ref\projeto Idosos.dll

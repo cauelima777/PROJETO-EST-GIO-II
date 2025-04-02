@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\clevi\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\projeto Idosos.csproj": {}
+    "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\projeto Idosos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\clevi\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\projeto Idosos.csproj": {
+    "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\projeto Idosos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\clevi\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\projeto Idosos.csproj",
+        "projectUniqueName": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\projeto Idosos.csproj",
         "projectName": "projeto Idosos",
-        "projectPath": "C:\\Users\\clevi\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\projeto Idosos.csproj",
-        "packagesPath": "C:\\Users\\clevi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\clevi\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\",
+        "projectPath": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\projeto Idosos.csproj",
+        "packagesPath": "C:\\Users\\Kauan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\clevi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kauan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
