@@ -12588,12 +12588,27 @@ header.masthead {
         }
 }
 
-#servicos .servicos-item {
-    max-width: 26rem;
-    margin-left: auto;
-    margin-right: auto;
+#servicos .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
+#servicos .servicos-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%; /* Faz com que todos tenham a mesma altura */
+    min-height: 400px; /* Ajuste conforme necessário */
+}
+
+    #servicos .servicos-item img {
+        width: 100%; /* Garante que a largura se ajuste ao container */
+        height: 250px; /* Define uma altura fixa */
+        object-fit: cover; /* Faz a imagem cobrir o espaço sem deformar */
+        border-radius: 8px; /* Opcional: arredonda os cantos */
+    }
     #servicos .servicos-item .servicos-link {
         position: relative;
         display: block;
@@ -12625,6 +12640,11 @@ header.masthead {
         padding: 1.5rem;
         text-align: center;
         background-color: #fff;
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
     }
 
         #servicos .servicos-item .servicos-caption .servicos-caption-heading {
