@@ -1,0 +1,187 @@
+﻿@page
+@model projeto_Idosos.Pages.DashboardModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+<body id="dashboard-wrapper">
+
+    <div class="dashboard-wrapper mt-5">
+        <!-- Dashboard Cards -->
+        <div class="row text-center mt-5">
+            <div class="col-md-3 mb-4">
+                <div class="dashboard-card bg-qtdeIdosos shadow p-4 rounded-lg">
+                    <i class="fa-solid fa-newspaper fa-2x mb-2"></i>
+                    <h3 id="IdososSobCuidados" class="display-5 font-weight-bold">0</h3>
+                    <p>Idosos sob cuidados</p>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="dashboard-card bg-qtdeCuidadores shadow p-4 rounded-lg">
+                    <i class="fa-solid fa-users fa-2x mb-2"></i>
+                    <h3 id="CuidadoresAtivos" class="display-5 font-weight-bold">0</h3>
+                    <p>Cuidadores ativos</p>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="dashboard-card bg-relatorios shadow p-4 rounded-lg">
+                    <i class="fa-solid fa-comments fa-2x mb-2"></i>
+                    <h3 id="RelatoriosGerados" class="display-5 font-weight-bold">0</h3>
+                    <p>Relatórios gerados</p>
+                </div>
+            </div>
+            <div class="col-md-3 mb-4">
+                <div class="dashboard-card bg-contasCriadas shadow p-4 rounded-lg">
+                    <i class="fa-solid fa-calendar-check fa-2x mb-2"></i>
+                    <h3 id="ContasCriadas" class="display-5 font-weight-bold">0</h3>
+                    <p>Contas criadas</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Gráficos -->
+        <div class="row mt-5">
+            <div class="col-12 mb-5">
+                <canvas id="idososChart" class="shadow rounded-lg" style="height: 300px;"></canvas>
+            </div>
+            <div class="col-12 mb-5">
+                <canvas id="contasChart" class="shadow rounded-lg" style="height: 300px;"></canvas>
+            </div>
+        </div>
+
+        <!-- Recent Activities -->
+        <h2 class="text-center h2-Dashboard mb-4">Atividades Recentes</h2>
+        <div class="card shadow mb-4">
+            <div class="card-body">
+                <ul id="atividades-recentes" class="list-group">
+                    <li class="list-group-item">Idosos "..."</li>
+                    <li class="list-group-item">Cuidadores "..."</li>
+                    <li class="list-group-item">Relatórios criados hoje: 0.</li>
+                    <li class="list-group-item">Contas criadas hoje: 0.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    // Dados fictícios de Idosos sob cuidados e Contas criadas
+    const idososData = [12, 15, 18, 22];  // Exemplificando aumento do número de idosos
+    const contasData = [100, 150, 200, 250];  // Exemplificando aumento no número de contas
+
+    // Gráfico de Idosos sob Cuidados
+    const idososCtx = document.getElementById('idososChart').getContext('2d');
+    const idososChart = new Chart(idososCtx, {
+        type: 'line',
+        data: {
+            labels: 
+            ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 
+            'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'],
+            datasets: [{
+                label: 'Idosos sob Cuidados',
+                data: idososData,
+                borderColor: '#FF6347',  // Tom de vermelho (ou qualquer cor que você preferir)
+                backgroundColor: 'rgba(255, 99, 71, 0.2)',  // Transparente, como fundo
+                pointBackgroundColor: '#FF6347',
+                pointRadius: 5,
+                fill: true,
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                x: {
+                    ticks: {
+                        font: {
+                            size: 16, // Aumenta o tamanho da fonte nos rótulos do eixo X
+                            weight: 'bold', // Opcional: Deixa as fontes em negrito
+                        }
+                    }
+                },
+                y: {
+                    ticks: {
+                        font: {
+                            size: 16, // Aumenta o tamanho da fonte nos rótulos do eixo Y
+                            weight: 'bold', // Opcional: Deixa as fontes em negrito
+                        }
+                    }
+                }
+            },
+            plugins: {
+                legend: {
+                    labels: {
+                        font: {
+                            size: 18, // Aumenta o tamanho da fonte da legenda
+                        }
+                    }
+                },
+                tooltip: {
+                    titleFont: {
+                        size: 16, // Aumenta o tamanho da fonte do título do tooltip
+                    },
+                    bodyFont: {
+                        size: 14, // Aumenta o tamanho da fonte do corpo do tooltip
+                    }
+                }
+            }
+        }
+    });
+
+    // Gráfico de Contas Criadas
+    const contasCtx = document.getElementById('contasChart').getContext('2d');
+    const contasChart = new Chart(contasCtx, {
+        type: 'bar',
+        data: {
+            labels: 
+            ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 
+            'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'],
+            datasets: [{
+                label: 'Contas Criadas',
+                data: contasData,
+                backgroundColor: '#1cc88a',  // Cor de fundo (verde)
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+
+            scales: {
+                x: {
+                    ticks: {
+                        font: {
+                            size: 16, // Aumenta o tamanho da fonte nos rótulos do eixo X
+                            weight: 'bold', // Opcional: Deixa as fontes em negrito
+                        }
+                    }
+                },
+                y: {
+                    ticks: {
+                        font: {
+                            size: 16, // Aumenta o tamanho da fonte nos rótulos do eixo Y
+                            weight: 'bold', // Opcional: Deixa as fontes em negrito
+                        }
+                    }
+                }
+            },
+            plugins: {
+                legend: {
+                    labels: {
+                        font: {
+                            size: 18, // Aumenta o tamanho da fonte da legenda
+                        }
+                    }
+                },
+                tooltip: {
+                    titleFont: {
+                        size: 16, // Aumenta o tamanho da fonte do título do tooltip
+                    },
+                    bodyFont: {
+                        size: 14, // Aumenta o tamanho da fonte do corpo do tooltip
+                    }
+                }
+            }
+        }
+    });
+</script>

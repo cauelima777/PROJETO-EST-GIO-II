@@ -1,0 +1,70 @@
+﻿@page
+@model projeto_Idosos.Pages.CadastroModel
+@{
+}
+<body id="telaCadastro">
+    <section class="vh-100">
+        <div class="mask d-flex align-items-center h-100">
+            <div class="container h-100">
+                <div class="row d-flex justify-content-center align-items-center h-100">
+                    <div class="col-12 col-md-9 col-lg-7 col-xl-6">
+                        <div class="card-cad" style="border-radius: 15px;">
+                            <div class="card-body p-5 mb-3">
+                                <h2 class="text-uppercase text-center mb-4 uppercaseUser">Crie uma conta</h2>
+
+                                <form>
+
+                                    <div data-mdb-input-init class="form-outline mb-4">
+                                        <label class="form-label" for="PrimeiroNome"></label>
+                                        <input type="text" id="PrimeiroNome" name="PrimeiroNome:" placeholder="Primeiro nome" class="form-control form-control-lg" />
+                                    </div>
+
+                                    <div data-mdb-input-init class="form-outline mb-4">
+                                        <label for="SobrenomeCad" class="form-label"></label>
+                                        <input type="text" id="SobrenomeCad" name="SobrenomeCad" placeholder="Sobrenome" class="form-control form-control-lg" />
+                                    </div>
+
+                                    <div data-mdb-input-init class="form-outline mb-4">
+                                        <label for="EmailCad" class="form-label"></label>
+                                        <input type="email" id="EmailCad" name="EmailCad" placeholder="Email" class="form-control form-control-lg" />
+                                    </div>
+
+                                    <div data-mdb-input-init class="form-outline mb-4">
+                                        <label class="form-label" for="Senha"></label>
+                                        <input type="password" id="senha" name="senha" placeholder="Insira sua senha" class="form-control form-control-lg" />
+                                    </div>
+
+                                    <div data-mdb-input-init class="form-outline mb-4">
+                                        <label class="form-label" for="SenhaIgual"></label>
+                                        <input type="password" id="SenhaIgual" name="SenhaIgual" placeholder="Repita sua senha" class="form-control form-control-lg" />
+                                    </div>
+
+                                    <div class="form-check d-flex justify-content-center mb-4">
+                                        <input class="form-check-input me-2" type="checkbox" value="" id="TermosdeServico" />
+                                        <label class="form-check-label" for="TermosdeServico">
+                                            Eu concordo com os <a href="#!" class="text-body"><u>Termos de serviço</u></a>
+                                        </label>
+                                    </div>
+
+                                    <div class="d-flex justify-content-center">
+                                        <button type="submit" id="btnGeral"
+                                                class="btn btn-block btn-lg text-body">
+                                            Registrar
+                                        </button>
+                                    </div>
+
+                                    <p class="text-center text-muted mt-4 mb-0 texto-geral">
+                                        Já possui uma conta?
+                                        <a href="Login" class="link-geral">Entrar</a>
+                                    </p>
+
+                                </form>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>

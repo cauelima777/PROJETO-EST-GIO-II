@@ -1,34 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\kauan\\documents\\github\\projeto-est-gio-ii\\projeto idosos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\kauan\\documents\\github\\projeto-est-gio-ii\\projeto idosos\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\pages\\relatorios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:pages\\relatorios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\pages\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:pages\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\kauan\\documents\\github\\projeto-est-gio-ii\\projeto idosos\\wwwroot\\assets\\img\\logos\\microsoft.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\wwwroot\\assets\\img\\logos\\microsoft.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:wwwroot\\assets\\img\\logos\\microsoft.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\kauan\\documents\\github\\projeto-est-gio-ii\\projeto idosos\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\kauan\\documents\\github\\projeto-est-gio-ii\\projeto idosos\\wwwroot\\assets\\img\\navbar-logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\wwwroot\\assets\\img\\navbar-logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:wwwroot\\assets\\img\\navbar-logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\kauan\\documents\\github\\projeto-est-gio-ii\\projeto idosos\\wwwroot\\assets\\img\\close-icon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\wwwroot\\assets\\img\\close-icon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:wwwroot\\assets\\img\\close-icon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\kauan\\documents\\github\\projeto-est-gio-ii\\projeto idosos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,66 +54,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Relatorios.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Relatorios.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Relatorios.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Relatorios.cshtml",
+              "RelativeToolTip": "Pages\\Relatorios.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T18:33:08.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Dashboard.cshtml",
+              "RelativeToolTip": "Pages\\Dashboard.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T00:27:44.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T23:17:46.268Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAACMxAAAAAAAAAAAawEExAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAACsMAAAAAAAAAAAEwDsMAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-04-02T19:34:47.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "microsoft.svg",
-              "DocumentMoniker": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\microsoft.svg",
-              "RelativeDocumentMoniker": "wwwroot\\assets\\img\\logos\\microsoft.svg",
-              "ToolTip": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\microsoft.svg",
-              "RelativeToolTip": "wwwroot\\assets\\img\\logos\\microsoft.svg",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-03-26T23:07:23.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T23:28:58.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "close-icon.svg",
-              "DocumentMoniker": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\close-icon.svg",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\close-icon.svg",
               "RelativeDocumentMoniker": "wwwroot\\assets\\img\\close-icon.svg",
-              "ToolTip": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\close-icon.svg",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\close-icon.svg",
               "RelativeToolTip": "wwwroot\\assets\\img\\close-icon.svg",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
@@ -105,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "navbar-logo.svg",
-              "DocumentMoniker": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\navbar-logo.svg",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\navbar-logo.svg",
               "RelativeDocumentMoniker": "wwwroot\\assets\\img\\navbar-logo.svg",
-              "ToolTip": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\navbar-logo.svg",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\navbar-logo.svg",
               "RelativeToolTip": "wwwroot\\assets\\img\\navbar-logo.svg",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
@@ -117,23 +144,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\js\\site.js",
               "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-19T23:30:22.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Cadastro.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Cadastro.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Cadastro.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Cadastro.cshtml",
+              "RelativeToolTip": "Pages\\Cadastro.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T23:27:15.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T23:28:58.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "microsoft.svg",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\microsoft.svg",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\img\\logos\\microsoft.svg",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\microsoft.svg",
+              "RelativeToolTip": "wwwroot\\assets\\img\\logos\\microsoft.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-26T23:07:23.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Kauan\\Documents\\GitHub\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
