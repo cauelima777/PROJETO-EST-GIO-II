@@ -1,0 +1,132 @@
+﻿@page
+@model projeto_Idosos.Pages.Gestao_saude.GestaoEsaudeModel
+@{
+    ViewData["Title"] = "Gestão de Saúde";
+}
+
+<nav class="custom-navbar">
+    <div class="container">
+        <a class="logo" href="#">ProVida</a>
+        <ul class="nav-links">
+            <li><a href="#servicos">NOSSOS SERVIÇOS</a></li>
+            <li><a href="#team">TEAM</a></li>
+            <li><a href="#contact">CONTATE-NOS</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div class="container text-center mt-4">
+    <a href="javascript:history.back()" class="btn btn-secondary">Voltar</a>
+    <br><br>
+</div>
+
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Gestão de Saúde</h2>
+
+    <div class="row mb-5">
+        <div class="col-md-6 offset-md-3">
+            <div class="card shadow-sm mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Histórico Médico</h5>
+                    <p class="card-text">Informações detalhadas sobre o histórico de saúde do paciente.</p>
+                    <p class="card-text"><small class="text-muted">Última atualização: 10/04/2025</small></p>
+                </div>
+            </div>
+
+            <div class="card shadow-sm mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Registro de Consultas</h5>
+                    <p class="card-text">Registro de todas as consultas realizadas.</p>
+                    <p class="card-text"><small class="text-muted">Última consulta: 05/04/2025</small></p>
+                </div>
+            </div>
+
+            <div class="card shadow-sm mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Exames</h5>
+                    <p class="card-text">Resultados e histórico de exames médicos.</p>
+                    <p class="card-text"><small class="text-muted">Último exame: 30/03/2025</small></p>
+                </div>
+            </div>
+
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Tratamentos</h5>
+                    <p class="card-text">Tratamentos em andamento ou concluídos.</p>
+                    <p class="card-text"><small class="text-muted">Atualizado em: 27/03/2025</small></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr class="my-5" />
+
+    <h4 class="mb-4 text-center">Adicionar Novo Registro</h4>
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form method="post">
+                <div class="mb-3">
+                    <label for="titulo" class="form-label">Título</label>
+                    <input type="text" class="form-control" id="titulo" name="NovoRegistro.Titulo" required>
+                </div>
+                <div class="mb-3">
+                    <label for="descricao" class="form-label">Descrição</label>
+                    <textarea class="form-control" id="descricao" name="NovoRegistro.Descricao" rows="3" required></textarea>
+                </div>
+                <div class="mb-3">
+                    <label for="data" class="form-label">Data</label>
+                    <input type="date" class="form-control" id="data" name="NovoRegistro.Data" required>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Adicionar</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<style>
+    .custom-navbar {
+        background-color: #2c4b4b; /* verde escuro tipo petróleo */
+        padding: 15px 0;
+        font-family: 'Segoe UI', sans-serif;
+    }
+
+        .custom-navbar .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+    .logo {
+        font-weight: bold;
+        color: #ffc107; /* amarelo dourado */
+        text-decoration: none;
+        font-style: italic;
+        font-size: 1.2rem;
+    }
+
+    .nav-links {
+        list-style: none;
+        display: flex;
+        gap: 30px;
+        margin: 0;
+        padding: 0;
+    }
+
+        .nav-links a {
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            color: white;
+            transition: color 0.3s ease;
+        }
+
+            .nav-links a:hover {
+                color: #ffc107; /* amarelo ao passar o mouse */
+            }
+</style>

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18259731-2F64-4EF2-A417-AEA7A8D52E51}|projeto Idosos.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\projeto-est-gio-ii\\projeto-est-gio-ii\\projeto idosos\\wwwroot\\assets\\img\\logos\\microsoft.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Relatorios.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Relatorios.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Relatorios.cshtml",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Relatorios.cshtml",
-              "RelativeToolTip": "Pages\\Relatorios.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T18:33:08.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "Pages\\Dashboard.cshtml",
@@ -95,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Login.cshtml",
               "RelativeDocumentMoniker": "Pages\\Login.cshtml",
@@ -107,16 +94,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAACsMAAAAAAAAAAAEwDsMAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAANcyAAAAAAAAAAAAAFszAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-02T19:34:47.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T19:34:47.532Z"
             },
             {
               "$type": "Document",
@@ -144,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -156,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Cadastro.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Cadastro.cshtml",
               "RelativeDocumentMoniker": "Pages\\Cadastro.cshtml",
@@ -168,15 +154,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T23:28:58.992Z"
+              "WhenOpened": "2025-03-19T23:28:58.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Relatorios.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Relatorios.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Relatorios.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\PROJETO-EST-GIO-II\\PROJETO-EST-GIO-II\\projeto Idosos\\Pages\\Relatorios.cshtml",
+              "RelativeToolTip": "Pages\\Relatorios.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T18:33:08.171Z"
             },
             {
               "$type": "Document",
