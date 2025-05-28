@@ -9,39 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = projeto_Idosos
 build_property.RootNamespace = projeto_Idosos
-build_property.ProjectDir = C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos\
+build_property.ProjectDir = C:\Users\gabri\OneDrive\Documentos\GitHub\PROJETO-EST-GIO-II\PROJETO-EST-GIO-II\projeto Idosos\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Kauan\Documents\GitHub\PROJETO-EST-GIO-II\projeto Idosos
+build_property.MSBuildProjectDirectory = C:\Users\gabri\OneDrive\Documentos\GitHub\PROJETO-EST-GIO-II\PROJETO-EST-GIO-II\projeto Idosos
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Kauan/Documents/GitHub/PROJETO-EST-GIO-II/projeto Idosos/Pages/Error.cshtml]
+[C:/Users/gabri/OneDrive/Documentos/GitHub/PROJETO-EST-GIO-II/PROJETO-EST-GIO-II/projeto Idosos/Pages/Cadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/OneDrive/Documentos/GitHub/PROJETO-EST-GIO-II/PROJETO-EST-GIO-II/projeto Idosos/Pages/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/OneDrive/Documentos/GitHub/PROJETO-EST-GIO-II/PROJETO-EST-GIO-II/projeto Idosos/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kauan/Documents/GitHub/PROJETO-EST-GIO-II/projeto Idosos/Pages/Index.cshtml]
+[C:/Users/gabri/OneDrive/Documentos/GitHub/PROJETO-EST-GIO-II/PROJETO-EST-GIO-II/projeto Idosos/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kauan/Documents/GitHub/PROJETO-EST-GIO-II/projeto Idosos/Pages/Privacy.cshtml]
+[C:/Users/gabri/OneDrive/Documentos/GitHub/PROJETO-EST-GIO-II/PROJETO-EST-GIO-II/projeto Idosos/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/OneDrive/Documentos/GitHub/PROJETO-EST-GIO-II/PROJETO-EST-GIO-II/projeto Idosos/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kauan/Documents/GitHub/PROJETO-EST-GIO-II/projeto Idosos/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/gabri/OneDrive/Documentos/GitHub/PROJETO-EST-GIO-II/PROJETO-EST-GIO-II/projeto Idosos/Pages/Relatorios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVsYXRvcmlvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/OneDrive/Documentos/GitHub/PROJETO-EST-GIO-II/PROJETO-EST-GIO-II/projeto Idosos/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kauan/Documents/GitHub/PROJETO-EST-GIO-II/projeto Idosos/Pages/_ViewImports.cshtml]
+[C:/Users/gabri/OneDrive/Documentos/GitHub/PROJETO-EST-GIO-II/PROJETO-EST-GIO-II/projeto Idosos/Pages/Visitante/Gestao&saude/GestaoEsaude.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXEdlc3RhbyZzYXVkZVxHZXN0YW9Fc2F1ZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/OneDrive/Documentos/GitHub/PROJETO-EST-GIO-II/PROJETO-EST-GIO-II/projeto Idosos/Pages/Visitante/Lembrete/lembrete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRhbnRlXExlbWJyZXRlXGxlbWJyZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/OneDrive/Documentos/GitHub/PROJETO-EST-GIO-II/PROJETO-EST-GIO-II/projeto Idosos/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kauan/Documents/GitHub/PROJETO-EST-GIO-II/projeto Idosos/Pages/_ViewStart.cshtml]
+[C:/Users/gabri/OneDrive/Documentos/GitHub/PROJETO-EST-GIO-II/PROJETO-EST-GIO-II/projeto Idosos/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kauan/Documents/GitHub/PROJETO-EST-GIO-II/projeto Idosos/Pages/Shared/_Layout.cshtml]
+[C:/Users/gabri/OneDrive/Documentos/GitHub/PROJETO-EST-GIO-II/PROJETO-EST-GIO-II/projeto Idosos/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-klu4a3mqwh

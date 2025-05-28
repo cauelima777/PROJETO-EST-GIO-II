@@ -1,0 +1,86 @@
+﻿@page
+@model projeto_Idosos.Pages.RelatoriosModel
+@{
+
+}
+<body id="telaRelatorios">
+    <h1 id="tituloRelatorio">Relatório Médico</h1>
+
+    <form method="post" enctype="multipart/form-data" id="formCriarRelatorio" class="pt-5 mb-3">
+        <!-- Nome completo do paciente -->
+        <div class="form-group" id="campoNomePaciente">
+            <label class="form-label"  for="nomePaciente">Nome Completo do Paciente</label>
+            <input type="text" class="form-control form-control-lg" id="nomePaciente" name="NomePaciente" required>
+        </div>
+
+        <!-- Nome do(s) Cuidador(es) -->
+        <div class="form-group" id="campoNomeCuidador">
+            <label class="form-label" for="nomeCuidador">Nome do(s) Cuidador(es) Responsáveis</label>
+            <input type="text" class="form-control form-control-lg" id="nomeCuidador" name="NomeCuidador" required>
+        </div>
+
+        <!-- Descrição do Relatório Médico -->
+        <div class="form-group" id="campoDescricaoRelatorio">
+            <label class="form-label" for="relatorioDescricao">Descrição do Relatório</label>
+            <textarea class="form-control form-control-lg" id="relatorioDescricao" name="Descricao" rows="5" placeholder="Escreva o relatório aqui..." required></textarea>
+        </div>
+
+        <!-- Adicionar Imagens -->
+        <div class="form-group" id="campoImagens">
+            <label for="imagens">Adicionar Imagens (opcional)</label>
+            <input type="file" class="form-control-file" id="imagens" name="Imagens" accept="image/*" multiple>
+            <small class="form-text text-muted" id="textoImagens">Você pode adicionar várias imagens, se necessário.</small>
+        </div>
+
+        <!-- Medicamentos Prescritos -->
+        <div class="form-group" id="campoMedicamentos">
+            <label class="form-label" for="medicamentos">Medicamentos Prescritos</label>
+            <div id="medicamentos">
+                <div class="medicamento-item" id="medicamento1">
+                    <input type="text" class="form-control form-control-lg" name="Medicamentos[0].Nome" placeholder="Nome do Medicamento" required>
+                    <input type="number" class="form-control form-control-lg mt-2" name="Medicamentos[0].Quantidade" placeholder="Quantidade (ml ou comprimidos)" required>
+                    <button type="button" class="btn btn-danger mt-2 btn-remove-medicamento" id="removerMedicamento1">Remover</button>
+                </div>
+            </div>
+            <button type="button" class="btn btn-primary mt-2" id="adicionarMedicamento">Adicionar Medicamento</button>
+        </div>
+
+        <!-- Data de Emissão -->
+        <div class="form-group" id="campoDataEmissao">
+            <label class="form-label" for="dataEmissao">Data de Emissão</label>
+            <input type="date" class="form-control form-control-lg" id="dataEmissao" name="DataEmissao" value="@DateTime.Now.ToString("yyyy-MM-dd")" required>
+        </div>
+
+        <!-- Botões -->
+        <button type="submit" class="btn btn-success mt-3" id="btnPostarRelatorio">Postar Relatório</button>
+        <a href="@Url.Page("/Home")" class="btn btn-secondary mt-3 ml-2" id="btnCancelar">Cancelar</a>
+    </form>
+</body>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    let medicamentoIndex = 1; // Começamos o índice para os medicamentos
+
+    // Adicionar medicamento
+    document.getElementById('adicionarMedicamento').addEventListener('click', function () {
+        const medicamentosContainer = document.getElementById('medicamentos');
+        const novoMedicamento = document.createElement('div');
+        novoMedicamento.classList.add('medicamento-item');
+        novoMedicamento.setAttribute('id', `medicamento${medicamentoIndex}`);
+        novoMedicamento.innerHTML = `
+                <input type="text" class="form-control" name="Medicamentos[${medicamentoIndex}].Nome" placeholder="Nome do Medicamento" required>
+                <input type="number" class="form-control mt-2" name="Medicamentos[${medicamentoIndex}].Quantidade" placeholder="Quantidade (ml ou comprimidos)" required>
+                <button type="button" class="btn btn-danger mt-2 btn-remove-medicamento" id="removerMedicamento${medicamentoIndex}">Remover</button>
+            `;
+        medicamentosContainer.appendChild(novoMedicamento);
+        medicamentoIndex++;
+    });
+
+    // Remover medicamento
+    document.addEventListener('click', function (e) {
+        if (e.target && e.target.classList.contains('btn-remove-medicamento')) {
+            const medicamentoItem = e.target.closest('.medicamento-item');
+            medicamentoItem.remove();
+        }
+    });
+</script>

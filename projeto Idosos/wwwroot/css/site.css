@@ -85,6 +85,9 @@
     box-sizing: border-box;
 }
 
+
+
+
 @media (prefers-reduced-motion: no-preference) {
     :root {
         scroll-behavior: smooth;
@@ -347,6 +350,7 @@ th {
 
 label {
     display: inline-block;
+    font-size: 20px;
 }
 
 button {
@@ -3128,7 +3132,7 @@ textarea.form-control-lg {
     --bs-btn-font-family:;
     --bs-btn-font-size: 1rem;
     --bs-btn-font-weight: 400;
-    --bs-btn-line-height: 1.5;
+    --bs-btn-line-height: 2;
     --bs-btn-color: #212529;
     --bs-btn-bg: transparent;
     --bs-btn-border-width: 1px;
@@ -4186,6 +4190,7 @@ textarea.form-control-lg {
     align-items: center;
     justify-content: space-between;
     padding: var(--bs-navbar-padding-y) var(--bs-navbar-padding-x);
+    z-index: 1000;
 }
 
     .navbar > .container,
@@ -8877,7 +8882,8 @@ textarea.form-control-lg {
 
 .text-muted {
     --bs-text-opacity: 1;
-    color: #6c757d !important;
+    color: #fff !important;
+    font-size: 18px;
 }
 
 .text-black-50 {
@@ -12999,3 +13005,170 @@ section#contact {
     font-size: 0.9rem;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
+#telaCadastro, #telaLogin, #dashboard-wrapper, #telaRelatorios {
+    background: #2f4f4f;
+}
+#dashboard-wrapper {
+    color: #fff;
+}
+
+    
+    .uppercaseUser, .span-cadastro, .form-check-label {
+        color: #fff;
+    }
+
+u {
+    color: #fff;
+}
+
+.span-cadastro, .form-check-label {
+    font-size:18px;
+}
+
+a {
+    font-size:18px;
+}
+
+#btnGeral {
+    background-color: #b2d3cf;
+    border-color: #5a9d97;
+}
+
+    #btnGeral:hover {
+        background-color: #99c4bf
+    }
+
+.card-cad {
+    background: #456363;
+}
+
+.dashboard-wrapper {
+    padding: 80px 20px;
+    max-width: 1200px;
+    margin: 0 auto; 
+}
+
+.dashboard-card {
+    
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    .dashboard-card:hover {
+        transform: scale(1.05);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    }
+
+.bg-qtdeIdosos {
+    background-color: #4e73df;
+}
+
+.bg-qtdeCuidadores {
+    background-color: #1cc88a;
+}
+
+.bg-relatorios {
+    background-color: #36b9cc;
+}
+
+.bg-contasCriadas {
+    background-color: #f6c23e;
+}
+
+/* Recent Activities */
+#recent-activities {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+canvas {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+/*relatorios*/
+
+/* Estilos para o Formulário de Relatório Médico */
+#formCriarRelatorio {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+}
+
+/* Título */
+#tituloRelatorio {
+    font-size: 2rem;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 120px;
+}
+
+/* Container para nome e idade */
+.nome-idade-container {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Espaçamento entre o nome e a idade */
+}
+
+.nome-paciente {
+    flex: 1; /* Faz com que o nome ocupe o restante do espaço */
+}
+
+.idade-paciente {
+    font-size: 12px; /* Tamanho menor para a idade */
+    width: 80px; /* Define a largura da idade */
+}
+
+
+/* Campos de Entrada */
+#campoNomePaciente, #campoIdadePaciente, #campoNomeCuidador, #campoDescricaoRelatorio,
+#campoImagens, #campoMedicamentos, #campoDataEmissao {
+    margin-bottom: 20px;
+}
+
+    /* Estilo para a área de medicamentos */
+    #campoMedicamentos .medicamento-item {
+        margin-bottom: 15px;
+    }
+
+    #campoMedicamentos .form-control {
+        display: inline-block;
+        width: 45%;
+    }
+
+/* Botões */
+#btnPostarRelatorio {
+    background-color: #4e73df;
+    border-color: #4e73df;
+}
+
+#btnCancelar {
+    background-color: #6c757d;
+    border-color: #6c757d;
+    color: white;
+}
+
+    #btnCancelar:hover {
+        background-color: #5a6268;
+        border-color: #545b62;
+    }
+
+/* Botão Adicionar Medicamento */
+#adicionarMedicamento {
+    background-color: #28a745;
+    color: white;
+}
+
+    #adicionarMedicamento:hover {
+        background-color: #218838;
+    }
+
