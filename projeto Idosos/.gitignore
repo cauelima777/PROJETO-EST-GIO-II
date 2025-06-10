@@ -1,4 +1,38 @@
+
 .vs/
 bin/
 obj/
 backup_vs/
+
+# Pasta de configurações do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Arquivos de build
+bin/
+obj/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.cache
+
+# Dados do Visual Studio Code, se usar
+.vscode/
+
+# Ignorar arquivos gerados por pacotes NuGet
+packages/
+*.nupkg
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+
+# Arquivos do ReSharper (se estiver usando)
+_ReSharper*/
+*.DotSettings.user
+
