@@ -1,0 +1,24 @@
+﻿@page
+@model projeto_Idosos.Pages.Saude.SaudeModel
+@{
+    ViewData["Title"] = "Gestão de Saúde";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4 text-primary">Histórico de Saúde</h2>
+
+    @foreach (var registro in Model.Registros)
+    {
+        <div class="card mb-3 shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">@registro.Tipo</h5>
+                <h6 class="card-subtitle text-muted">@registro.Data.ToShortDateString()</h6>
+                <p class="card-text">@registro.Descricao</p>
+                @if (!string.IsNullOrWhiteSpace(registro.Observacoes))
+                {
+                    <p class="text-muted small">Obs: @registro.Observacoes</p>
+                }
+            </div>
+        </div>
+    }
+</div>

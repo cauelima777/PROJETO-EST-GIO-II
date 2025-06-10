@@ -1,0 +1,65 @@
+﻿@page
+@model projeto_Idosos.Pages.Principal.DashboardModel
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">Bem-vindo, @Model.NomeUsuario 👋</h2>
+
+    <div class="row">
+        <!-- Próximo lembrete -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm p-3 rounded-4 border-start border-5 border-primary">
+                <h5 class="card-title text-primary">📌 Próximo Lembrete</h5>
+                @if (Model.ProximoLembrete != null)
+                {
+                    <p class="mb-1"><strong>Remédio:</strong> @Model.ProximoLembrete.NomeRemedio</p>
+                    <p class="mb-1"><strong>Hora:</strong> @Model.ProximoLembrete.Hora</p>
+                    <p><strong>Descrição:</strong> @Model.ProximoLembrete.Descricao</p>
+                }
+                else
+                {
+                    <p>Sem lembretes registrados.</p>
+                }
+            </div>
+        </div>
+
+        <!-- Últimas tarefas -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm p-3 rounded-4 border-start border-5 border-success">
+                <h5 class="card-title text-success">✅ Últimas Tarefas</h5>
+                @if (Model.UltimasTarefas.Any())
+                {
+                    <ul class="list-unstyled mb-0">
+                        @foreach (var tarefa in Model.UltimasTarefas.Take(3))
+                        {
+                            <li class="mb-2">
+                                <strong>@tarefa.Titulo</strong> – @tarefa.Data.ToShortDateString()
+                                <br />
+                                <small class="text-muted">@tarefa.Descricao</small>
+                            </li>
+                        }
+                    </ul>
+                }
+                else
+                {
+                    <p>Nenhuma tarefa registrada.</p>
+                }
+            </div>
+        </div>
+
+        <!-- Progresso de leitura -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm p-3 rounded-4 border-start border-5 border-info">
+                <h5 class="card-title text-info">📚 Progresso de Direitos</h5>
+                <p class="mb-2">Você leu <strong>@Model.ProgressoLeitura.ToString("F0")%</strong> dos direitos disponíveis.</p>
+                <div class="progress">
+                    <div class="progress-bar bg-info" role="progressbar" style="width: @Model.ProgressoLeitura%" aria-valuenow="@Model.ProgressoLeitura" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">

@@ -1,0 +1,58 @@
+﻿@page
+@model projeto_Idosos.Pages.Tarefas.TarefaModel
+@{
+    ViewData["Title"] = "Minhas Tarefas";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">📋 Minhas Tarefas</h2>
+
+    <!-- Formulário -->
+    <form method="post" class="mb-4">
+        <div asp-validation-summary="ModelOnly" class="text-danger mb-2"></div>
+
+        <div class="mb-3">
+            <label asp-for="NovaTarefa.Nome" class="form-label">Nome da tarefa</label>
+            <input asp-for="NovaTarefa.Nome" class="form-control" />
+            <span asp-validation-for="NovaTarefa.Nome" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="NovaTarefa.Data" class="form-label">Data</label>
+            <input asp-for="NovaTarefa.Data" class="form-control" type="date" />
+            <span asp-validation-for="NovaTarefa.Data" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="NovaTarefa.Descricao" class="form-label">Observações</label>
+            <textarea asp-for="NovaTarefa.Descricao" class="form-control"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Adicionar tarefa</button>
+    </form>
+
+    <!-- Lista de tarefas -->
+    @if (Model.ListaTarefas.Any())
+    {
+        <ul class="list-group">
+            @foreach (var tarefa in Model.ListaTarefas.OrderByDescending(t => t.Data))
+            {
+                <li class="list-group-item">
+                    <h5>@tarefa.Nome</h5>
+                    <p><strong>Data:</strong> @tarefa.Data.ToShortDateString()</p>
+                    <p class="text-muted">@tarefa.Descricao</p>
+                </li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>Nenhuma tarefa cadastrada ainda.</p>
+    }
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">

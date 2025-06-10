@@ -1,0 +1,32 @@
+﻿@page
+@model projeto_Idosos.Pages.Direitos.DireitosModel
+@{
+    ViewData["Title"] = "Direitos do Idoso";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4 text-primary">Estatuto do Idoso – Conheça seus direitos</h2>
+
+    @foreach (var direito in Model.Direitos)
+    {
+        var lido = Model.DireitosLidosIds.Contains(direito.Id);
+
+        <div class="card mb-3 shadow-sm @(lido ? "border-success" : "")">
+            <div class="card-body">
+                <h5 class="card-title">@direito.Titulo</h5>
+                <p class="card-text">@direito.Descricao</p>
+
+                @if (!lido)
+                {
+                    <form method="post" asp-page-handler="MarcarComoLido" asp-route-id="@direito.Id">
+                        <button type="submit" class="btn btn-outline-success">Marcar como lido</button>
+                    </form>
+                }
+                else
+                {
+                    <span class="badge bg-success">Já lido</span>
+                }
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,35 @@
+﻿@page
+@model projeto_Idosos.Pages.Educacao.DireitosModel
+@{
+    ViewData["Title"] = "Educação sobre Direitos";
+    var nomeUsuario = User.Identity?.Name ?? "usuário";
+}
+
+<div class="container mt-4">
+    <h1 class="text-primary">Direitos do @(Model.PerfilUsuario == "Idoso" ? "Idoso" : "Cuidador")</h1>
+    <h2 class="text-primary">Olá, @nomeUsuario! Veja seus direitos:</h2>
+    <p class="text-muted">Conheça os seus direitos garantidos por lei.</p>
+
+    <ul class="list-group mt-4">
+        @foreach (var item in Model.Direitos)
+        {
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                @item.Descricao
+
+                @if (item.JaLido)
+                {
+                    <span class="badge bg-success">Lido</span>
+                }
+                else
+                {
+                    <form method="post" asp-page-handler="MarcarComoLido" class="m-0">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-sm btn-outline-primary">Marcar como lido</button>
+                    </form>
+                }
+            </li>
+        }
+    </ul>
+</div>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">

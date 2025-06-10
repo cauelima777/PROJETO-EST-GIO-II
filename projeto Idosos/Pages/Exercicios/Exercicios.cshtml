@@ -1,0 +1,24 @@
+﻿@page
+@model projeto_Idosos.Pages.Exercicios.ExerciciosModel
+@{
+    ViewData["Title"] = "Exercícios e Mobilidade";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4 text-primary">Exercícios sugeridos</h2>
+
+    @foreach (var ex in Model.Exercicios)
+    {
+        <div class="card mb-3 shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">@ex.Nome</h5>
+                <p class="card-text">@ex.Descricao</p>
+                <span class="badge bg-info">@ex.DuracaoMinutos minutos</span>
+                @if (!string.IsNullOrWhiteSpace(ex.Categoria))
+                {
+                    <span class="badge bg-secondary ms-2">@ex.Categoria</span>
+                }
+            </div>
+        </div>
+    }
+</div>

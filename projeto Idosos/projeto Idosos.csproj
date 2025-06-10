@@ -7,4 +7,32 @@
     <RootNamespace>projeto_Idosos</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Pages\Cadastro.cshtml.cs" />
+    <Compile Remove="Pages\Direitos.cshtml.cs" />
+    <Compile Remove="Pages\Error.cshtml.cs" />
+    <Compile Remove="Pages\Login.cshtml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Pages\Cadastro.cshtml" />
+    <Content Remove="Pages\Direitos.cshtml" />
+    <Content Remove="Pages\Error.cshtml" />
+    <Content Remove="Pages\Login.cshtml" />
+    <Content Remove="Pages\_ViewImports.cshtml" />
+    <Content Remove="Pages\_ViewStart.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.35" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.35" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.35" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.35" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.35">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.18" />
+  </ItemGroup>
+
 </Project>
