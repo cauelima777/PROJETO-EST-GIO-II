@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Tt0eLZM8/lfULpw1TS/Zb6KXUKRIosw6KdcNJjYPeQk=",
+  "Hash": "JFHJ1VKgQ8dp0lXZMPC/ybELgOhbRGgWzB0nkH4HvFU=",
   "Source": "projeto Idosos",
   "BasePath": "_content/projeto Idosos",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "projeto Idosos\\wwwroot",
       "Source": "projeto Idosos",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "C:\\Users\\kamil\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.35\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projeto Idosos.styles.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projeto Idosos.styles.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "projeto Idosos#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1295,13 +1295,13 @@
       "Integrity": "SIcpby9TbsmrdHtsMWrjKvcvOc6+rc06tEdcDmOB6kE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projeto Idosos.styles.css"
+      "OriginalItemSpec": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projeto Idosos.styles.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projeto Idosos.bundle.scp.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projeto Idosos.bundle.scp.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "projeto Idosos#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1316,13 +1316,13 @@
       "Integrity": "SIcpby9TbsmrdHtsMWrjKvcvOc6+rc06tEdcDmOB6kE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projeto Idosos.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projeto Idosos.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\favicon.ico",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\favicon.ico",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\1.jpg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\1.jpg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/about/1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\about\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\2.jpg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\2.jpg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/about/2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\about\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\3.jpg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\3.jpg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/about/3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\about\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\4.jpg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\4.jpg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/about/4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\about\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\close-icon.svg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\close-icon.svg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/close-icon#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\close-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\header-bg.jpg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\header-bg.jpg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/header-bg#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\header-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\idosos-header.png",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\idosos-header.png",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/idosos-header#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\idosos-header.png"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\facebook.svg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\facebook.svg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/logos/facebook#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logos\\facebook.svg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\google.svg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\google.svg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/logos/google#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logos\\google.svg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\ibm.svg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\ibm.svg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/logos/ibm#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logos\\ibm.svg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\microsoft.svg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\microsoft.svg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/logos/microsoft#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logos\\microsoft.svg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\navbar-logo.svg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\navbar-logo.svg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/navbar-logo#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\navbar-logo.svg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\AdminTempo.jpg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\AdminTempo.jpg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/portfolio/AdminTempo#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\AdminTempo.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ComunicarIdoso.jpg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ComunicarIdoso.jpg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/portfolio/ComunicarIdoso#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\ComunicarIdoso.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\EstatutoIdoso.jpg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\EstatutoIdoso.jpg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/portfolio/EstatutoIdoso#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\EstatutoIdoso.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ExercicioIdoso.jpg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ExercicioIdoso.jpg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/portfolio/ExercicioIdoso#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\ExercicioIdoso.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\gestão&saude.jpg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\gestão&saude.jpg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/portfolio/gestão&saude#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\gestão&saude.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ImagemMedicamentos.jpg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ImagemMedicamentos.jpg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/portfolio/ImagemMedicamentos#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\ImagemMedicamentos.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\1.jpg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\1.jpg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/team/1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\2.jpg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\2.jpg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/team/2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\3.jpg",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\3.jpg",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "assets/img/team/3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\css\\site.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\favicon.ico",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\js\\site.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1907,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1949,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1970,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1991,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2033,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2054,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2075,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2096,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2117,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2138,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2180,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2201,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2222,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2243,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2264,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2285,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2306,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2327,10 +2327,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2348,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2369,10 +2369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2390,10 +2390,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2432,10 +2432,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2453,10 +2453,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2474,10 +2474,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2495,10 +2495,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2537,10 +2537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2558,10 +2558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2579,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2600,10 +2600,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2621,10 +2621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2642,10 +2642,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2663,10 +2663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2684,10 +2684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2705,10 +2705,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2726,10 +2726,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2747,10 +2747,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2768,10 +2768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -2789,10 +2789,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2831,10 +2831,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2852,10 +2852,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2894,10 +2894,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2915,10 +2915,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2936,10 +2936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2957,10 +2957,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -2978,10 +2978,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2999,10 +2999,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -3020,10 +3020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "projeto Idosos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\",
       "BasePath": "_content/projeto Idosos",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -3044,7 +3044,7 @@
   "Endpoints": [
     {
       "Route": "assets/favicon.devepoo3hg.ico",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\favicon.ico",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3089,7 +3089,7 @@
     },
     {
       "Route": "assets/favicon.ico",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\favicon.ico",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3126,7 +3126,7 @@
     },
     {
       "Route": "assets/img/about/1.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\1.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3163,7 +3163,7 @@
     },
     {
       "Route": "assets/img/about/1.luf6vkznua.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\1.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3208,7 +3208,7 @@
     },
     {
       "Route": "assets/img/about/2.fs23qakmpw.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\2.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3253,7 +3253,7 @@
     },
     {
       "Route": "assets/img/about/2.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\2.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3290,7 +3290,7 @@
     },
     {
       "Route": "assets/img/about/3.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\3.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3327,7 +3327,7 @@
     },
     {
       "Route": "assets/img/about/3.qcbkfayuhm.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\3.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3372,7 +3372,7 @@
     },
     {
       "Route": "assets/img/about/4.a9xxy3m1sn.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\4.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3417,7 +3417,7 @@
     },
     {
       "Route": "assets/img/about/4.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\4.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\about\\4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3454,7 +3454,7 @@
     },
     {
       "Route": "assets/img/close-icon.gltpf0ojga.svg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\close-icon.svg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\close-icon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3499,7 +3499,7 @@
     },
     {
       "Route": "assets/img/close-icon.svg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\close-icon.svg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\close-icon.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3536,7 +3536,7 @@
     },
     {
       "Route": "assets/img/header-bg.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\header-bg.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\header-bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3573,7 +3573,7 @@
     },
     {
       "Route": "assets/img/header-bg.r39jwzyqv6.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\header-bg.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\header-bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3618,7 +3618,7 @@
     },
     {
       "Route": "assets/img/idosos-header.4de4bhj8h7.png",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\idosos-header.png",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\idosos-header.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3663,7 +3663,7 @@
     },
     {
       "Route": "assets/img/idosos-header.png",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\idosos-header.png",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\idosos-header.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3700,7 +3700,7 @@
     },
     {
       "Route": "assets/img/logos/facebook.svg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\facebook.svg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\facebook.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3737,7 +3737,7 @@
     },
     {
       "Route": "assets/img/logos/facebook.yzwaz9h4ug.svg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\facebook.svg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\facebook.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3782,7 +3782,7 @@
     },
     {
       "Route": "assets/img/logos/google.svg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\google.svg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\google.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3819,7 +3819,7 @@
     },
     {
       "Route": "assets/img/logos/google.tvssx6fxin.svg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\google.svg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\google.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3864,7 +3864,7 @@
     },
     {
       "Route": "assets/img/logos/ibm.fl167a5vgh.svg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\ibm.svg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\ibm.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3909,7 +3909,7 @@
     },
     {
       "Route": "assets/img/logos/ibm.svg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\ibm.svg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\ibm.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3946,7 +3946,7 @@
     },
     {
       "Route": "assets/img/logos/microsoft.76b2eraw0n.svg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\microsoft.svg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\microsoft.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3991,7 +3991,7 @@
     },
     {
       "Route": "assets/img/logos/microsoft.svg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\microsoft.svg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\logos\\microsoft.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4028,7 +4028,7 @@
     },
     {
       "Route": "assets/img/navbar-logo.hyciq7mni4.svg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\navbar-logo.svg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\navbar-logo.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4073,7 +4073,7 @@
     },
     {
       "Route": "assets/img/navbar-logo.svg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\navbar-logo.svg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\navbar-logo.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4110,7 +4110,7 @@
     },
     {
       "Route": "assets/img/portfolio/AdminTempo.dgaa4ktty5.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\AdminTempo.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\AdminTempo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4155,7 +4155,7 @@
     },
     {
       "Route": "assets/img/portfolio/AdminTempo.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\AdminTempo.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\AdminTempo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4192,7 +4192,7 @@
     },
     {
       "Route": "assets/img/portfolio/ComunicarIdoso.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ComunicarIdoso.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ComunicarIdoso.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4229,7 +4229,7 @@
     },
     {
       "Route": "assets/img/portfolio/ComunicarIdoso.q3ejo8l64e.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ComunicarIdoso.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ComunicarIdoso.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4274,7 +4274,7 @@
     },
     {
       "Route": "assets/img/portfolio/EstatutoIdoso.cwesxkevjg.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\EstatutoIdoso.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\EstatutoIdoso.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4319,7 +4319,7 @@
     },
     {
       "Route": "assets/img/portfolio/EstatutoIdoso.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\EstatutoIdoso.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\EstatutoIdoso.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4356,7 +4356,7 @@
     },
     {
       "Route": "assets/img/portfolio/ExercicioIdoso.c34s0e1o56.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ExercicioIdoso.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ExercicioIdoso.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4401,7 +4401,7 @@
     },
     {
       "Route": "assets/img/portfolio/ExercicioIdoso.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ExercicioIdoso.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ExercicioIdoso.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4438,7 +4438,7 @@
     },
     {
       "Route": "assets/img/portfolio/gestão&saude.0ur9mt5ihv.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\gestão&saude.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\gestão&saude.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4483,7 +4483,7 @@
     },
     {
       "Route": "assets/img/portfolio/gestão&saude.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\gestão&saude.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\gestão&saude.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4520,7 +4520,7 @@
     },
     {
       "Route": "assets/img/portfolio/ImagemMedicamentos.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ImagemMedicamentos.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ImagemMedicamentos.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4557,7 +4557,7 @@
     },
     {
       "Route": "assets/img/portfolio/ImagemMedicamentos.wgba38ya8w.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ImagemMedicamentos.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\portfolio\\ImagemMedicamentos.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4602,7 +4602,7 @@
     },
     {
       "Route": "assets/img/team/1.dyewfjeqxm.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\1.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4647,7 +4647,7 @@
     },
     {
       "Route": "assets/img/team/1.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\1.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4684,7 +4684,7 @@
     },
     {
       "Route": "assets/img/team/2.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\2.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4721,7 +4721,7 @@
     },
     {
       "Route": "assets/img/team/2.mnzdh1pq2o.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\2.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4766,7 +4766,7 @@
     },
     {
       "Route": "assets/img/team/3.087n85jizt.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\3.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4811,7 +4811,7 @@
     },
     {
       "Route": "assets/img/team/3.jpg",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\3.jpg",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\assets\\img\\team\\3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4848,7 +4848,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4885,7 +4885,7 @@
     },
     {
       "Route": "css/site.uxqg6lovsf.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4930,7 +4930,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4975,7 +4975,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7232,7 +7232,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7269,7 +7269,7 @@
     },
     {
       "Route": "js/site.n0p0l6wocg.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7314,7 +7314,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7351,7 +7351,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7396,7 +7396,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7433,7 +7433,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7478,7 +7478,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7515,7 +7515,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7560,7 +7560,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7597,7 +7597,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ozu22stjof.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7642,7 +7642,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7679,7 +7679,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7724,7 +7724,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7761,7 +7761,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.gjcw7pocpk.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7806,7 +7806,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.6l4ir0ityv.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7851,7 +7851,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7888,7 +7888,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7933,7 +7933,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7970,7 +7970,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8007,7 +8007,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8044,7 +8044,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8089,7 +8089,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.5p029spbuu.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8134,7 +8134,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8171,7 +8171,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8216,7 +8216,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8253,7 +8253,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.nakmwdwsxp.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8298,7 +8298,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8335,7 +8335,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8380,7 +8380,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8417,7 +8417,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.e6q6xbwqzk.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8462,7 +8462,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8499,7 +8499,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8536,7 +8536,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8581,7 +8581,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.dy6jgresuo.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8626,7 +8626,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8663,7 +8663,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8708,7 +8708,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8745,7 +8745,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8782,7 +8782,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8819,7 +8819,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8864,7 +8864,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.z7kmom2977.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8909,7 +8909,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.mk8rdyw69w.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8954,7 +8954,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8999,7 +8999,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9036,7 +9036,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9081,7 +9081,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9118,7 +9118,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9155,7 +9155,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9192,7 +9192,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9237,7 +9237,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.y53cy5s2zj.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9282,7 +9282,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9319,7 +9319,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9364,7 +9364,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9401,7 +9401,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.2yn17lgxub.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9446,7 +9446,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9483,7 +9483,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9520,7 +9520,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9565,7 +9565,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9602,7 +9602,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9647,7 +9647,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9684,7 +9684,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9721,7 +9721,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9766,7 +9766,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9803,7 +9803,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.ik6i2hrs65.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9848,7 +9848,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.ophe14yye5.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9893,7 +9893,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9938,7 +9938,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.1piudyfv7h.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9983,7 +9983,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.f6zq8v6eb3.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10028,7 +10028,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10065,7 +10065,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10110,7 +10110,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10147,7 +10147,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.89qbw8ngem.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10192,7 +10192,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10229,7 +10229,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10274,7 +10274,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10311,7 +10311,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10348,7 +10348,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10393,7 +10393,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10430,7 +10430,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.jqwzsa9uv6.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10475,7 +10475,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10512,7 +10512,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10549,7 +10549,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10594,7 +10594,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.n5w6o92d9r.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10639,7 +10639,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10676,7 +10676,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10721,7 +10721,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10758,7 +10758,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4908xmbfjr.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10803,7 +10803,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10840,7 +10840,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10877,7 +10877,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10922,7 +10922,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10959,7 +10959,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11004,7 +11004,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11041,7 +11041,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dsw5v3fbc5.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11086,7 +11086,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11123,7 +11123,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11160,7 +11160,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.rm8d4uw1xt.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11205,7 +11205,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.ukz1g2vv03.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11250,7 +11250,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11295,7 +11295,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11332,7 +11332,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11377,7 +11377,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11414,7 +11414,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11459,7 +11459,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11496,7 +11496,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.6d0lkjaslc.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11541,7 +11541,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11578,7 +11578,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11615,7 +11615,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.l1zq2mitth.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11660,7 +11660,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11697,7 +11697,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11742,7 +11742,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.dvc2bfcndg.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11787,7 +11787,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11824,7 +11824,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11861,7 +11861,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.mt9h37ga6s.js",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11906,7 +11906,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11943,7 +11943,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11988,7 +11988,7 @@
     },
     {
       "Route": "projeto Idosos.84ae6qijk7.bundle.scp.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projeto Idosos.bundle.scp.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projeto Idosos.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12033,7 +12033,7 @@
     },
     {
       "Route": "projeto Idosos.84ae6qijk7.styles.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projeto Idosos.styles.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projeto Idosos.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12078,7 +12078,7 @@
     },
     {
       "Route": "projeto Idosos.bundle.scp.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projeto Idosos.bundle.scp.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\projeto Idosos.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12115,7 +12115,7 @@
     },
     {
       "Route": "projeto Idosos.styles.css",
-      "AssetFile": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projeto Idosos.styles.css",
+      "AssetFile": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\projeto Idosos.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

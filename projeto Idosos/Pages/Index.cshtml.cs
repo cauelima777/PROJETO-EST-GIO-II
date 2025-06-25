@@ -17,10 +17,11 @@ namespace projeto_Idosos.Pages
         {
             if (_signInManager.IsSignedIn(User))
             {
-                return RedirectToPage("/Dashboard"); // Redireciona se logado
+                // Redireciona para o dashboard correto de usuários logados
+                return RedirectToPage("/Principal/Dashboard", new { area = "Identity" });
             }
 
-            return Page(); // Mostra a tela se não estiver logado
+            return Page(); // Mostra a landing page para visitantes
         }
     }
 }

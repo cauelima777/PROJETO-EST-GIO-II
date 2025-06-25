@@ -3,10 +3,8 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace projeto_Idosos.Pages
 {
-    public class DashboardModel : PageModel
+    public class HomeDashboardModel : PageModel
     {
-        public void OnGet()
-        {
-        }
+        public void OnGet() { }
     }
 }

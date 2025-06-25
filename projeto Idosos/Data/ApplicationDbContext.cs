@@ -16,5 +16,6 @@ namespace projeto_Idosos.Data
 
         public DbSet<Tarefa> Tarefas { get; set; }
         public DbSet<Lembrete> Lembretes { get; set; }
+        public DbSet<Saude> Saude { get; set; }
     }
 }

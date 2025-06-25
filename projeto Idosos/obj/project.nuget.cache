@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lz9ESsy7KnY=",
+  "dgSpecHash": "b+okvPK9Y+w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kamil\\source\\repos\\PROJETO-EST-GIO-II\\projeto Idosos\\projeto Idosos.csproj",
+  "projectFilePath": "C:\\Users\\kamil\\Source\\Repos\\PROJETO-EST-GIO-II\\projeto Idosos\\projeto Idosos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kamil\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\kamil\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

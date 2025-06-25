@@ -408,7 +408,7 @@ C:\Users\kamil\Source\Repos\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\s
 C:\Users\kamil\Source\Repos\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.projeto Idosos.props
 C:\Users\kamil\Source\Repos\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.projeto Idosos.props
 C:\Users\kamil\Source\Repos\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\kamil\Source\Repos\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
 C:\Users\kamil\Source\Repos\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto .3C3A19CC.Up2Date
 C:\Users\kamil\Source\Repos\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\projeto Idosos.genruntimeconfig.cache
 C:\Users\kamil\Source\Repos\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\ref\projeto Idosos.dll
+C:\Users\kamil\Source\Repos\PROJETO-EST-GIO-II\projeto Idosos\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt

@@ -5,7 +5,7 @@
 }
 
 <div class="container mt-5">
-    <h2 class="mb-4">Bem-vindo, @Model.NomeUsuario 👋</h2>
+    <h2 class="mb-4">Bem-vindo(a), @Model.NomeUsuario 👋</h2>
 
     <div class="row">
         <!-- Próximo lembrete -->
@@ -61,5 +61,100 @@
         </div>
     </div>
 </div>
+
+<!-- SERVIÇOS PÓS-LOGIN -->
+<section class="page-section mt-5 pt-5 bg-light" id="servicos-logado">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="section-heading text-uppercase">Serviços disponíveis</h2>
+            <h3 class="section-subheading text-muted">Explore as funcionalidades da ProVida.</h3>
+        </div>
+        <div class="row">
+            <!-- Gestão de Saúde -->
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <div class="servicos-item">
+                    <a class="servicos-link" asp-page="/Saude/Saude">
+                        <div class="servicos-hover"><i class="fas fa-plus fa-3x"></i></div>
+                        <img class="img-fluid" src="assets/img/portfolio/gestão&saude.jpg" alt="Gestão de Saúde" />
+                    </a>
+                    <div class="servicos-caption">
+                        <div class="servicos-caption-heading">Gestão de Saúde</div>
+                        <div class="servicos-caption-subheading text-muted">Consultas, exames e tratamentos registrados.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Lembretes de Medicação -->
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <div class="servicos-item">
+                    <a class="servicos-link" asp-page="/Lembretes/Lembrete">
+                        <div class="servicos-hover"><i class="fas fa-plus fa-3x"></i></div>
+                        <img class="img-fluid" src="assets/img/portfolio/ImagemMedicamentos.jpg" alt="Lembretes de Medicação" />
+                    </a>
+                    <div class="servicos-caption">
+                        <div class="servicos-caption-heading">Lembretes de Medicação</div>
+                        <div class="servicos-caption-subheading text-muted">Receba alertas para não esquecer os remédios.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Exercícios e Mobilidade -->
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <div class="servicos-item">
+                    <a class="servicos-link" asp-page="/Exercicios/Exercicio">
+                        <div class="servicos-hover"><i class="fas fa-plus fa-3x"></i></div>
+                        <img class="img-fluid" src="assets/img/portfolio/ExercicioIdoso.jpg" alt="Exercícios e Mobilidade" />
+                    </a>
+                    <div class="servicos-caption">
+                        <div class="servicos-caption-heading">Exercícios e Mobilidade</div>
+                        <div class="servicos-caption-subheading text-muted">Registre atividades físicas seguras.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Administração de Tempo -->
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <div class="servicos-item">
+                    <a class="servicos-link" asp-page="/Tarefas/Tarefa">
+                        <div class="servicos-hover"><i class="fas fa-plus fa-3x"></i></div>
+                        <img class="img-fluid" src="assets/img/portfolio/AdminTempo.jpg" alt="Administração de Tempo" />
+                    </a>
+                    <div class="servicos-caption">
+                        <div class="servicos-caption-heading">Administração de Tempo</div>
+                        <div class="servicos-caption-subheading text-muted">Crie tarefas para gerenciar sua rotina.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Educação sobre Direitos -->
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <div class="servicos-item">
+                    <a class="servicos-link" asp-page="/Direitos/Direito">
+                        <div class="servicos-hover"><i class="fas fa-plus fa-3x"></i></div>
+                        <img class="img-fluid" src="assets/img/portfolio/EstatutoIdoso.jpg" alt="Direitos do Idoso" />
+                    </a>
+                    <div class="servicos-caption">
+                        <div class="servicos-caption-heading">Educação sobre Direitos</div>
+                        <div class="servicos-caption-subheading text-muted">Leia e marque seus direitos como lidos.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Suporte a Cuidadores -->
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <div class="servicos-item">
+                    <a class="servicos-link" asp-page="#">
+                        <div class="servicos-hover"><i class="fas fa-plus fa-3x"></i></div>
+                        <img class="img-fluid" src="assets/img/portfolio/ComunicarIdoso.jpg" alt="Suporte a Cuidadores" />
+                    </a>
+                    <div class="servicos-caption">
+                        <div class="servicos-caption-heading">Suporte a Cuidadores</div>
+                        <div class="servicos-caption-subheading text-muted">Função em desenvolvimento.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">

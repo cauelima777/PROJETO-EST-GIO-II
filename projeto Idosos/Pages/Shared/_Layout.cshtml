@@ -7,12 +7,12 @@
     <link rel="stylesheet" href="~/css/site.css" />
 </head>
 <body>
-
-
     <div>
         @RenderBody() <!-- Aqui o conteúdo das páginas será renderizado -->
     </div>
 
     <script src="~/js/site.js"></script>
+
+    @RenderSection("Scripts", required: false)
 </body>
 </html>
